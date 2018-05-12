@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8969'
     url: http://www.gutenberg.org/2009/agents/8969
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38589#Legal-LoreCuriosities-of-Law-and-Lawyers
 gutenberg_issued: '2012-01-16'
 gutenberg_type: Text
 identifiers:
